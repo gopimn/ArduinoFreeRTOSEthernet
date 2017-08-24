@@ -50,7 +50,7 @@
 */
 
 /* FreeRTOS.org includes. */
-//#include "FreeRTOS_ARM.h"
+#include "FreeRTOS_ARM.h"
 //#include "task.h"
 //#include "semphr.h"
 //#include "portasm.h"
