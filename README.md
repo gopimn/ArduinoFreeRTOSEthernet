@@ -1,2 +1,2 @@
 # ArduinoFreeRTOSEthernet
-Sending data from SPI trouth TCP and UDP  
+Sending data from SPI trough TCP and UDP  
